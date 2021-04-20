@@ -1,4 +1,4 @@
-body {
+body { /**sets the font family and aligns the text to the center and gives a background image **/
   font-family: sans-serif;
   text-align: center;
   background: url("./lamp.jpg");
@@ -91,7 +91,7 @@ header {
   align-content: space-between;
   padding: 20px;
 }
-footer {
+footer { /**displays a flex row with padding that justifies its content to the center **/
   display: flex;
   flex-flow: row wrap;
   align-content: space-between;
@@ -108,21 +108,21 @@ h1 {
   padding: 50px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-main {
+main { /**aligns the content to the center as well as pads it to the left and right **/
   align-content: center;
   padding-left: 100px;
   padding-right: 100px;
 }
 header,
-footer {
+footer { /**sets background colour for header and footer **/
   background-color: #e62c10;
 }
-.introduction{
+.introduction{ /**sets font color **/
   color: white;
 }
-#accordion{
+#accordion{ /**sets font colour **/
   color: white;
 }
-h3{
+h3{ /**sets the cursor to be a pointer **/
   cursor: pointer;
 }
