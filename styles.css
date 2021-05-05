@@ -117,7 +117,7 @@ header,
 footer { /**sets background colour for header and footer **/
   background-color: #e62c10;
 }
-.introduction{ /**sets font color **/
+.introduction, .art{ /**sets font color **/
   color: white;
 }
 #accordion{ /**sets font colour **/
