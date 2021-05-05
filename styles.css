@@ -1,7 +1,7 @@
 body { /**sets the font family and aligns the text to the center and gives a background image **/
   font-family: sans-serif;
   text-align: center;
-  background: url("./lamp.jpg");
+  background: url("./images/lamp.jpg");
 }
 /**button color, position, background is set, no border given, margin size, font size
 choosen, overflow hidden so that users cant see the other button, transition takes
